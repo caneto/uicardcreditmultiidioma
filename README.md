@@ -1,4 +1,4 @@
-# uicardcreditmultiidioma
+# Ui CardCredit MultIdioma
 Ui Cartão de Credito com Multi-Idioma
 
 <b>Fotos usando Emulador em pt-BR, para traduzir o conteudo</b>
@@ -26,11 +26,18 @@ Ui Cartão de Credito com Multi-Idioma
 </table> 
 
 
+## [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
+<h2>🛠️ Funcionalidades e Componentes usados</h2>
 
-## Tecnologia usada
-<b>Componentes </b>animate_do, google_fonts, blurrycontainer, i18n_extension<br>
+- flutter e flutter_localizations
 
+- animate_do - 3.0.2
+- google_fonts - ^3.0.1
+- blurrycontainer - ^1.0.2
+- i18n_extension - ^6.0.0
+  
+<b>Desenvolvido apenas para Android, e iOS.</b> - Testado exclusivamente em Android (Emulador). 
 <b>Usando a extenção de Context, do Filipe Castro (https://github.com/felipecastrosales/context_extension)
 
 <h2>📝 Licença</h2>
